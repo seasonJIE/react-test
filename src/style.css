@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.select {
+  color: blueviolet;
+  font-size: 16px;
+}
+.select.checked {
+  color: darkgoldenrod
+}
